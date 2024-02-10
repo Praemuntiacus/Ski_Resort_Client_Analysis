@@ -12,10 +12,13 @@ This [study](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/ma
 
 
 <div style="text-align: center;">
-  <img src="https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg" alt="Les2Alpes Sentiments">
+  <img src="https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg" alt="Les2Alpes Sentiments" style="display: block; margin: 0 auto;">
 </div>
 
+*Word cloud representing emotional connotations of frequent words: Green color indicates a positive emotional connotation, while red color represents a negative emotional connotation. The overall emotional score, which can range from 1 to 1, is slightly positive (0.24).*
+*Nuage de mots représentant des connotations émotionnelles de mots fréquents: La couleur verte indique une connotation émotionnelle positive, tandis que la couleur rouge représente une connotation émotionnelle négative. Le score émotionnel global, qui peut varier de 1 à 1, est légèrement positif (0.24).*
 
+==========
 
 ![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/b8a291ab-89b5-4953-8ed3-cdcb27b0887f)
 
