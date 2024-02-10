@@ -5,7 +5,8 @@
 
 This study focuses on analyzing the comments provided by clients of a Ski Resort, employing textual analysis techniques. The comments were sourced from a dedicated website for the Ski Resort. The analysis encompasses various aspects such as word frequencies, word co-occurrence, and sentiment analysis. Additionally, contextual data, including weather conditions, client categories, seasons, and overall client satisfaction, was considered. The primary objective of this analysis is to gain insights into the overall tone of client comments and evaluate the satisfaction levels among different client categories, while also exploring their correlation with various factors.
 
-https://private-user-images.githubusercontent.com/125415799/250950337-1c09e9ef-5b0f-448a-b188-1aa46e343621.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc1MzkxNDUsIm5iZiI6MTcwNzUzODg0NSwicGF0aCI6Ii8xMjU0MTU3OTkvMjUwOTUwMzM3LTFjMDllOWVmLTViMGYtNDQ4YS1iMTg4LTFhYTQ2ZTM0MzYyMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDIxMFQwNDIwNDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNGM5ZmUyOTIwNWI0YWRiZTE4M2JlZmViMDFkYTVhNjU5MWFiYTZiMmQ3ZTI0MjM4MmJlMjdlOGY4NTg4YmJkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.Qs7oWCiYiyMWDRShO9nHsldrVvs-riNHCGarcrwZekQ
+![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/c926254c-2b49-4a0f-b880-9278c6859ad0)
+
 
 **Analyse des commentaires des clients dans une station de ski**
 
