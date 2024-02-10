@@ -11,9 +11,10 @@ This [study](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/ma
 
 
 
-<div align="center">
-  <img src="[https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg]
+<div style="text-align: center;">
+  <img src="https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg" alt="Les2Alpes Sentiments">
 </div>
+
 
 
 ![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/b8a291ab-89b5-4953-8ed3-cdcb27b0887f)
