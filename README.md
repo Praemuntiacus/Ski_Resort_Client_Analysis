@@ -15,7 +15,7 @@ This [study](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/ma
   <img src="https://github.com/Praemuntiacus/Decorative_Desktop_Clock/raw/main/desktop%20clock%20view.png" alt="Desktop Clock View" width="300px">
 </div>
 
-![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/c926254c-2b49-4a0f-b880-9278c6859ad0)
+![image]([https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/c926254c-2b49-4a0f-b880-9278c6859ad0](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg))
 
 
 **Analyse des commentaires des clients sur la station de ski Les 2 Alpes sur skipass.com**
