@@ -3,7 +3,7 @@
 # Ski_Resort_Client_Analysis
 **Analysis of Client Comments at a Ski Resort**
 
-This study focuses on analyzing the comments provided by clients of a Ski Resort, employing textual analysis techniques. The comments were sourced from a dedicated website for the Ski Resort. The analysis encompasses various aspects such as word frequencies, word co-occurrence, and sentiment analysis. Additionally, contextual data, including weather conditions, client categories, seasons, and overall client satisfaction, was considered. The primary objective of this analysis is to gain insights into the overall tone of client comments and evaluate the satisfaction levels among different client categories, while also exploring their correlation with various factors.
+This study focuses on analyzing the comments provided by clients of a Ski Resort, employing textual analysis techniques. The comments were sourced from a dedicated website for the Ski Resort (https://skipass.com). The analysis encompasses various aspects such as word frequencies, word co-occurrence, and sentiment analysis. Additionally, contextual data, including weather conditions, client categories, seasons, and overall client satisfaction, was considered. The primary objective of this analysis is to gain insights into the overall tone of client comments and evaluate the satisfaction levels among different client categories, while also exploring their correlation with various factors.
 
 ![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/c926254c-2b49-4a0f-b880-9278c6859ad0)
 
