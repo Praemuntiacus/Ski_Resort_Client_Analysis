@@ -12,7 +12,7 @@ This [study](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/ma
 
 
 <div align="center">
-  <img src="[https://github.com/Praemuntiacus/Decorative_Desktop_Clock/raw/main/desktop%20clock%20view.png" alt="Desktop Clock View" width="300px](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg)">
+  <img src="[https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/main/les2alpes_sentiments.jpg]
 </div>
 
 
