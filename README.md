@@ -9,6 +9,12 @@ This [study](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/blob/ma
 - Customers visiting the resort with their families are the most demanding and, at the same time, the most active in their feedback about their experience. This circumstance should be taken into account by the marketing and communication services.
 - Customers visiting the resort with friends generally have a very good impression of Les 2 Alpes but are less active in their feedback.
 
+
+
+<div align="center">
+  <img src="https://github.com/Praemuntiacus/Decorative_Desktop_Clock/raw/main/desktop%20clock%20view.png" alt="Desktop Clock View" width="300px">
+</div>
+
 ![image](https://github.com/Praemuntiacus/Ski_Resort_Client_Analysis/assets/125415799/c926254c-2b49-4a0f-b880-9278c6859ad0)
 
 
